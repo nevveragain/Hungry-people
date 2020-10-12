@@ -1,0 +1,31 @@
+
+
+.icon_mail::before {
+    content: '\f0e0';
+    font-weight: 900;
+}
+
+.icon_phone::before {
+    content: '\f879';
+    font-weight: 900;
+}
+
+.icon_map::before {
+    content: '\f3c5';
+    font-weight: 900;
+}
+
+.icon_fb::before {
+    content: '\f39e';
+    font-weight: 400;
+}
+
+.icon_inst::before {
+    content: '\f16d';
+    font-weight: 400;
+}
+
+.icon_twitter::before {
+    content: '\f099';
+    font-weight: 400;
+}
